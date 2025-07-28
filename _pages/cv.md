@@ -20,12 +20,12 @@ Education
 
 Work experience
 ======
-* March 2025 - Present: Research and Development Engineer
-  * Krait Labs Ltd
+* March 2025 - Present: Krait Labs Ltd
+  * Research and Development Engineer
 
 
-* February 2024 - Present: Research and Development Engineer
-  * Penta Global Ltd
+* February 2024 - Present: Penta Globa Ltd
+  * Research and Development Engineer
   * The Research and Development Team is dedicated to finding new ways and technologies mostly related to Machine Learning required to accomplish the project associated with the company to meet the client's meets and requirements.
 
 * June 2016 - December 2021: Teacher's Assistant

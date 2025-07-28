@@ -5,7 +5,7 @@ category: workshops
 permalink: https://ceur-ws.org/Vol-3740/paper-90.pdf
 excerpt: 'Effective content moderation requires automated systems that understand nuanced, multimodal, and multilingual online content. This study explores an attention-based approach to better balance textual and visual cues, improving performance in identifying sexism and other complex labels.'
 date: 2024-09-09
-venue: 'EXIST 2024'
+venue: 'EXIST'
 paperurl: 'https://ceur-ws.org/Vol-3740/paper-90.pdf'
 ---
 
