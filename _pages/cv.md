@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Visit my [CV](https://scholar.google.com/citations?user=bxuEW6EAAAAJ&hl=en&oi=ao).
+https://drive.google.com/file/d/1A88NfVSF0GPKsOvLUfW9T_5XrAUIS4CG/view?usp=sharing
+
 Education
 ======
 * B.S. in CSE, University of Dhaka, 2024
