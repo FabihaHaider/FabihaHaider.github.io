@@ -59,10 +59,18 @@ Talks
   
 Projects
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+* Library Management System, Database Project - 02/2021
+  * The project is about the management of a library in the public domain, with its own rules and regulations. Implemented in SQL using MySQL Workbench.
+
+* Pick A Plot, Android Project - 06/2021
+  * A space-sharing app that lets people look for space for various social events and meetings and also lets people post an ad if they have a space. Implemented using Android Studio and Firebase Database in Java Database.
+
+* Internet Programming : Driver Lagbe?, Internet Programming Project - 05/2023
+  * Driver Lagbe is a website application intended for hiring part-time drivers. The website was built to connect car owners who are looking for hourly-based available drivers and drivers who are free for such trips. The main features of the website were real-time available drivers' location around a car owner, trip requests to drivers, acceptance and rejection of the request.
+
+* Heterogeneity-Aware Clustering and Deep Learning Models to Compress Smart Meter Data, Thesis - 01/2024
+  * We explore Density-Based Spatial Clustering of Applications with Noise (DBSCAN) to cluster the smart meter ETS data from residential, industrial, and commercial subscribers. The clustered data are then compressed using different deep-learning models that is optimal for a respective cluster.
+
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
