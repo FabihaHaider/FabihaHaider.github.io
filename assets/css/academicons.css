@@ -392,6 +392,12 @@
 .ai-researchgate-square:before {
   content: "\e99e";
 }
+.ai-acl_anthalogy:before {
+  content: "\e95e";
+}
+.ai-acl_anthalogy-square:before {
+  content: "\e99e";
+}
 .ai-ror:before {
   content: "\e948";
 }
