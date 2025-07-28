@@ -33,30 +33,30 @@
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Dhaka",
+      "area": "B.S. in CSE",
+      "studyType": "",
+      "startDate": "",
+      "endDate": "2024",
+      "gpa": 3.66,
+      "courses": []
+    },
+    {
+      "institution": "Maple Leaf Int'l School",
+      "area": "A Level",
       "studyType": "",
       "startDate": "",
       "endDate": "2018",
-      "gpa": null,
+      "gpa": "",
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Maple Leaf Int'l School",
+      "area": "O Level",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "endDate": "2016",
+      "gpa": "",
       "courses": []
     }
   ],
