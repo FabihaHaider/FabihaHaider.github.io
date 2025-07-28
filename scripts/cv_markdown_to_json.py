@@ -117,6 +117,13 @@ def extract_author_info(config):
                 "username": "",
                 "url": author.get('googlescholar')
             })
+
+        if author.get('acl_anthology'):
+            profiles.append({
+                "network": "ACL Anthology",
+                "username": "",
+                "url": author.get('acl_anthology')
+            })
         
         if author.get('orcid'):
             profiles.append({
