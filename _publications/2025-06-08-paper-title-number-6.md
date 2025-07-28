@@ -6,5 +6,3 @@ excerpt: 'BanglaProtha dataset is a VQA dataset, containing images that encapsul
 date: 2026-05-10
 venue: 'WACV'
 ---
-
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
