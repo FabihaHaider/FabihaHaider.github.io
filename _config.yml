@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   github           : "FabihaHaider"
-  acl_anthalogy    : "https://aclanthology.org/people/f/fabiha-haider/"
+  acl_anthalogy    : #"https://aclanthology.org/people/f/fabiha-haider/"
   googlescholar    : "https://scholar.google.com/citations?user=bxuEW6EAAAAJ&hl=en&oi=ao"
   dblp             : "https://dblp.org/pid/382/9703" 
 
