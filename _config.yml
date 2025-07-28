@@ -35,8 +35,7 @@ author:
   github           : "FabihaHaider"
   acl anthalogy    : "https://aclanthology.org/people/f/fabiha-haider/"
   googlescholar    : "https://scholar.google.com/citations?user=bxuEW6EAAAAJ&hl=en&oi=ao"
-  dblp             : "https://dblp.org/pid/382/9703"
-  linkedin         : "7b5b72287"
+  dblp             : "https://dblp.org/pid/382/9703" 
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -57,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "fabiha-haider-7b5b72287"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -71,7 +70,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : "fabihahaider1934"
-  zhihu            : # Username
+  zhihu            : # Username 
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
