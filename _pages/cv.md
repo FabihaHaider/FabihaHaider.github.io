@@ -43,10 +43,13 @@ Skills
   * HuggingFace Transformers
   * Tensorflow
   * Scikit-Learn
+  * Langchain
+  * LangGraph
 * Tools
   * Git
   * FastAPI
   * Streamlit
+  * NeonDB
 
 Publications
 ======
