@@ -11,4 +11,4 @@ Hi, I'm Fabiha Haider. I have completed my graduation from **Department of Compu
 
 Research Interests
 ======
-My current research interest lies in NLP and intersection of LLM and Security, mainly AI Security. I am particularly interested in LLM Bias and studies exploring LLM vulnerabilities exploitation and mitigation. 
+My current research interest lies in NLP and intersection of LLM and Security, mainly AI Security. I am particularly interested in LLM Bias and studies exploring LLM vulnerabilities, exploitation and mitigation. 
