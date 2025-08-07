@@ -25,7 +25,7 @@ author:
   avatar           : "profile_.png"
   name             : "Fabiha Haider"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : #"Short biography for the left-hand sidebar"
   location         : "Dhaka, Bangladesh"
   employer         : "Penta Global Ltd"
   uri              : # URL
