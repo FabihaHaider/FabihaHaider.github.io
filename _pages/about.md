@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Fabiha Haider. I have completed my graduation from **Department of Computer Science and Engineering**, **University of Dhaka**, Bangladesh, and am currently employed as Research and Development Engineer at Penta Global Ltd and Krait Labs Ltd. I am currently working on projects for developing LLM systems for telecom data and for SAST scanners.
+Hi, I'm Fabiha Haider. I have completed my graduation from **Department of Computer Science and Engineering**, **University of Dhaka**, Bangladesh, and am currently employed as ML Research and Development Engineer at Penta Global Ltd and Krait Labs Ltd. I am currently working on projects for developing LLM systems for telecom data and for SAST scanners.
 
 Research Interests
 ======
