@@ -31,7 +31,36 @@ Work experience
 * June 2016 - December 2021: Teacher's Assistant
   * Study Town's Coaching
   * I gained experience as a part-time Teacher's Assistant during my 12th grade. This role allowed me to develop my communication and instructional skills by assisting in the creation of engaging mock exam papers and providing constructive feedback while marking student work. Provided 1:1 and group support for class activities and outdoor recreation.
+
+Publications
+======
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+Talks
+======
+  <ul>{% for post in site.talks reversed %}
+    {% include archive-single-talk-cv.html  %}
+  {% endfor %}</ul>
+  
+Projects
+======
+* [FabihaHaider/transliterated_nmt](https://huggingface.co/FabihaHaider/transliterated_nmt)
+  * The model is based on pretrained [Banglanmt_bn_en](https://huggingface.co/csebuetnlp/banglat5_nmt_bn_en) model finetuned on the [BanglaTLit](https://aclanthology.org/2024.findings-emnlp.859/) , dataset for the downstream task of Bangla to Transliterated Bangla
+
+* Library Management System, Database Project - 02/2021
+  * The project is about the management of a library in the public domain, with its own rules and regulations. Implemented in SQL using MySQL Workbench.
+
+* Pick A Plot, Android Project - 06/2021
+  * A space-sharing app that lets people look for space for various social events and meetings and also lets people post an ad if they have a space. Implemented using Android Studio and Firebase Database in Java Database.
+
+* Internet Programming : Driver Lagbe?, Internet Programming Project - 05/2023
+  * Driver Lagbe is a website application intended for hiring part-time drivers. The website was built to connect car owners who are looking for hourly-based available drivers and drivers who are free for such trips. The main features of the website were real-time available drivers' location around a car owner, trip requests to drivers, acceptance and rejection of the request.
+
+* Heterogeneity-Aware Clustering and Deep Learning Models to Compress Smart Meter Data, Thesis - 01/2024
+  * We explore Density-Based Spatial Clustering of Applications with Noise (DBSCAN) to cluster the smart meter ETS data from residential, industrial, and commercial subscribers. The clustered data are then compressed using different deep-learning models that is optimal for a respective cluster.
+
 Skills
 ======
 * Languages
@@ -50,33 +79,6 @@ Skills
   * FastAPI
   * Streamlit
   * NeonDB
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Projects
-======
-* Library Management System, Database Project - 02/2021
-  * The project is about the management of a library in the public domain, with its own rules and regulations. Implemented in SQL using MySQL Workbench.
-
-* Pick A Plot, Android Project - 06/2021
-  * A space-sharing app that lets people look for space for various social events and meetings and also lets people post an ad if they have a space. Implemented using Android Studio and Firebase Database in Java Database.
-
-* Internet Programming : Driver Lagbe?, Internet Programming Project - 05/2023
-  * Driver Lagbe is a website application intended for hiring part-time drivers. The website was built to connect car owners who are looking for hourly-based available drivers and drivers who are free for such trips. The main features of the website were real-time available drivers' location around a car owner, trip requests to drivers, acceptance and rejection of the request.
-
-* Heterogeneity-Aware Clustering and Deep Learning Models to Compress Smart Meter Data, Thesis - 01/2024
-  * We explore Density-Based Spatial Clustering of Applications with Noise (DBSCAN) to cluster the smart meter ETS data from residential, industrial, and commercial subscribers. The clustered data are then compressed using different deep-learning models that is optimal for a respective cluster.
-
 <!-- Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
