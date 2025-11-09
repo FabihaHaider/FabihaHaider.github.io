@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* March 2025 - Present: Krait Labs Ltd
+* March 2025 - Present: Krait Labs Inc.
   * ML Research and Development Engineer
 
 
