@@ -75,6 +75,7 @@ for row, item in publications.iterrows():
     md += """collection: publications"""
     
     md += """\npermalink: /publication/""" + html_filename
+
     
     if len(str(item.excerpt)) > 5:
         md += "\nexcerpt: '" + html_escape(item.excerpt) + "'"
@@ -102,7 +103,7 @@ for row, item in publications.iterrows():
     
     md_filename = os.path.basename(md_filename)
        
-    with open("../_publications/" + md_filename, 'w') as f:
-        f.write(md)
+    # with open("../_publications/" + md_filename, 'w') as f:
+    #     f.write(md)
 
 
