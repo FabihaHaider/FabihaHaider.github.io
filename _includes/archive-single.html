@@ -54,9 +54,6 @@
           <p><strong>Authors:</strong> {{ post.authors }}</p>
         {% endif %}
 
-        {% if post.githuburl %}
-          <p><a href="{{ post.githuburl }}">GitHub Repository</a></p>
-        {% endif %}
 
 
     {% if post.excerpt and site.read_more != 'enabled' %}
@@ -91,6 +88,9 @@
       <p><a href="{{ post.slidesurl }}">Download Slides</a></p>
     {% elsif post.bibtexurl %}
       <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
+    {% endif %}
+    {% if post.githuburl %}
+      <p><a href="{{ post.githuburl }}">GitHub Repository</a></p>
     {% endif %}
 
   </article>
