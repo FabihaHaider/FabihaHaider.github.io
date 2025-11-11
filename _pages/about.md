@@ -11,4 +11,4 @@ Hi, I'm Fabiha Haider. I have completed my graduation from **Department of Compu
 
 Research Interests
 ======
-My current research interest lies in NLP. I am particularly interested in LLM Applications, focusing on LLM Idiosyncrasies, exploitations and mitigation, and Information Retrieval. 
+My current research interest lies in NLP. I am particularly interested in LLM Applications, focusing on LLM limitations, exploitations and mitigation, and in Information Retrieval. 
