@@ -6,6 +6,7 @@ authors: '<strong>Fabiha Haider</strong>, Md Farhan Ishmam, Fariha Tanjim Shifat
 excerpt: 'Bangla text online often mixes Bangla script with Romanized Bangla. To handle this, language models need to be able to understand this script mixing. In this work, we test how well current LLMs and Bangla models handle different types of transliteration-based changes. We create mixed-script versions of Bangla data by replacing some words, sentences, or important keywords with their transliterated forms. Our experiments show weaknesses and interesting behaviors in these models, highlighting the need to improve robustness for real-world use.'
 date: 2025-11-07
 githuburl: "https://github.com/farhanishmam/BTL-Robustness"
+paperurl: "https://drive.google.com/file/d/1oIGI4tNQBlPPRbLR-8LBcuqaai2QNk4-/view?usp=sharing"
 venue: 'BNP-Workshop'
 ---
 ### Abstract
