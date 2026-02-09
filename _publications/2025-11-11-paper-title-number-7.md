@@ -2,7 +2,7 @@
 title: "BANGLAPROTHA: Evaluating Vision Language Models in Underrepresented
 Long-tail Cultural Contexts"
 collection: publications
-category: under_review
+category: conference
 authors: 'Md Fahim, Md Sakib Ul Rahman Sourove, Akm Moshiur Rahman Mazumder, Md Farhan Ishmam, Md Tasmim Rahman Adib, Fariha Tanjim Shifat, <strong>Fabiha Haider</strong>, Md Farhad Alam Bhuiyan'
 excerpt: 'We introduce BanglaProtha, a Bengali culture–focused VQA dataset designed to expose cultural biases in Vision-Language Models. By evaluating multiple VLM classes across prompting, fine-tuning, model sizes, and augmentation strategies, we uncover systematic Western-centric tendencies. Our work offers diagnostic insights for developing fairer multicultural and multilingual AI systems.'
 # date: 2025-11-07
